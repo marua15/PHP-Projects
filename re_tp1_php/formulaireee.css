@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) ;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.form{
+    background-color:rgb(248, 241, 241);
+    text-align: center;
+    width: 80%;
+    margin: 180px;
+  padding: 50px;
+  max-width: 300px;
+  border-radius: 5%;
+  
+}
+button{
+    margin: 10px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+}
