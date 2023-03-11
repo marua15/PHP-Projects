@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 270%;
+}
+body{
+    background: #639082;
+    justify-content: center;
+    align-items: center;
+}
+.portal{
+    background-color: rgb(205, 236, 226);
+    text-align: center;
+    width: 80%;
+    margin: 180px;
+  padding: 50px;
+  max-width: 300px;
+  border-radius: 10%;
+  
+}
+input{
+    margin: 10px;
+}
